@@ -1,0 +1,23 @@
+achievement.mineMithril=Silver Steel
+achievement.craftPick=Strike the Earth!
+
+itemGroup.Epicmod=Epic Stuff
+
+item.Ruby.name=Ruby
+item.Balrog Sword.name=Balrog Sword
+item.Mithril Sword.name=Mithril Sword
+item.Mithril Pickaxe.name=Mithril Pickaxe
+item.Mithril Axe.name=Mithril Axe
+item.Mithril Shovel.name=Mithril Shovel
+item.Mithril Hoe.name=Mithril Hoe
+item.MithrilIngot.name=Mithril Ingot
+item.Mithril Helmet.name=Mithril Helmet
+item.Mithril Chestplate.name=Mithril Chestplate
+item.Mithril Leggings.name=Mithril Leggings
+item.Mithril Boots.name=Mithril Boots
+item.Jelly Beans.name=Jelly Beans
+
+tile.Mithril Chest.name=Mithril Chest
+tile.Mithril Ore.name=Mithril Ore
+tile.Ruby Block.name=Ruby Block
+tile.Ruby Ore.name=Ruby Ore
